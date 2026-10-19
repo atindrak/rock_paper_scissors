@@ -1,0 +1,22 @@
+.intro h1,h3{
+    text-align: center;
+}
+.roundCt{
+    display: flex;
+    justify-content: center;
+    gap:32px;
+}
+.roundCt button{
+    height: 50px;
+}
+.points{
+    display: flex;
+    justify-content: center;
+    gap:128px;
+}
+.pics{
+    display: flex;
+    justify-content: center;
+    gap:64px;
+    margin-top: 70px;
+}
